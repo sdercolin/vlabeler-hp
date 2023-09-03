@@ -1,5 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: vLabeler
+description: An open source voice labeling application
 theme: just-the-docs
 
 url: https://vlabeler.com
+
+search_enabled: false
+color_scheme: theme
