@@ -6,3 +6,14 @@ url: https://vlabeler.com
 
 search_enabled: false
 color_scheme: theme
+
+nav_external_links:
+  - title: Readme
+    url: https://github.com/sdercolin/vlabeler/blob/main/README.md
+    hide_icon: false
+  - title: Readme (简体中文）
+    url: https://github.com/sdercolin/vlabeler/blob/main/readme/README-zhCN.md
+    hide_icon: false
+  - title: Readme (日本語）
+    url: https://github.com/sdercolin/vlabeler/blob/main/readme/README-zhCN.md
+    hide_icon: false
