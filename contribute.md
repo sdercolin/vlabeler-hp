@@ -34,7 +34,7 @@ You can find more information [here](https://github.com/sdercolin/vlabeler#plugi
 vLabeler is currently available in English, Simplified Chinese and Japanese. You can contribute to the localization
 effort by translating the application to your language.
 
-Please contact us via Discord channel `#vlabeler-localization` if you are interested in contributing to the localization.
+Please contact us via Discord channel `#vlabeler_localization` if you are interested in contributing to the localization.
 
 ## Tutorial
 
