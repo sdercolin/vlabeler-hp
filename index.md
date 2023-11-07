@@ -18,9 +18,10 @@ vLabeler is an open-source voice labeling application with the following objecti
 
 Packaged application for the following platforms are provided.
 
-- Windows (.zip/.exe)
-- macOS (Intel, compatible with Apple Silicon) (.dmg)
-- Ubuntu (.deb)
+- Windows: ~win64.zip
+- macOS (Intel): ~mac-x64.dmg
+- macOS (Apple Silicon): ~mac-arm64.dmg
+- Ubuntu: ~amd64.deb
 
 <span class="fs-4">
 [Latest Release](https://github.com/sdercolin/vlabeler/releases/latest){: .btn .mt-4 }
@@ -39,3 +40,8 @@ Find your scenario and follow the instructions to create your first labeling pro
 <span class="fs-4">
 [See README on GitHub](https://github.com/sdercolin/vlabeler/tree/main#scenarios){: .btn .mt-4 }
 </span>
+
+## About localization
+
+This website is currently available in English only, but the application is available in **English, Simplified Chinese
+and Japanese**.
