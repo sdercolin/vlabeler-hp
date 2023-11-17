@@ -8,6 +8,9 @@ search_enabled: false
 color_scheme: theme
 
 nav_external_links:
+  - title: FAQ
+    url: https://github.com/sdercolin/vlabeler/wiki/FAQ
+    hide_icon: false
   - title: Readme
     url: https://github.com/sdercolin/vlabeler/blob/main/README.md
     hide_icon: false
