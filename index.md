@@ -43,4 +43,4 @@ Find your scenario and follow the instructions to create your first labeling pro
 ## About localization
 
 This website is currently available in English only, but the application is available in **English, Simplified Chinese
-and Japanese**.
+, Japanese and Korean**.
