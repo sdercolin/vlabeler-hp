@@ -19,6 +19,7 @@ vLabeler is an open-source voice labeling application with the following objecti
 Packaged application for the following platforms are provided.
 
 - Windows: ~win64.zip
+- macOS (Intel): ~mac-x64.dmg
 - macOS (Apple Silicon): ~mac-arm64.dmg
 - Ubuntu: ~amd64.deb
 
