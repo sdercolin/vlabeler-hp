@@ -38,10 +38,12 @@ Currently, vLabeler has official support for the following scenarios:
 Find your scenario and follow the instructions to create your first labeling project.
 
 <span class="fs-4">
-[See README on GitHub](https://github.com/sdercolin/vlabeler/tree/main#scenarios){: .btn .mt-4 }
+[Read the Documentation](https://docs.vlabeler.com){: .btn .mt-4 }
 </span>
 
 ## About localization
 
-This website is currently available in English only, but the application is available in **English, Simplified Chinese
-, Japanese and Korean**.
+The application and its [documentation](https://docs.vlabeler.com) are available in **English, Simplified Chinese,
+Japanese and Korean**
+([简体中文](https://docs.vlabeler.com/zh-Hans/) | [日本語](https://docs.vlabeler.com/ja/) | [한국어](https://docs.vlabeler.com/ko/)).
+This website is currently available in English only.

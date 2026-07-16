@@ -11,12 +11,15 @@ nav_external_links:
   - title: FAQ
     url: https://github.com/sdercolin/vlabeler/wiki/FAQ
     hide_icon: false
-  - title: Readme
-    url: https://github.com/sdercolin/vlabeler/blob/main/README.md
+  - title: Documentation
+    url: https://docs.vlabeler.com
     hide_icon: false
-  - title: Readme (简体中文）
-    url: https://github.com/sdercolin/vlabeler/blob/main/readme/README-zhCN.md
+  - title: Documentation (简体中文)
+    url: https://docs.vlabeler.com/zh-Hans/
     hide_icon: false
-  - title: Readme (日本語）
-    url: https://github.com/sdercolin/vlabeler/blob/main/readme/README-ja.md
+  - title: Documentation (日本語)
+    url: https://docs.vlabeler.com/ja/
+    hide_icon: false
+  - title: Documentation (한국어)
+    url: https://docs.vlabeler.com/ko/
     hide_icon: false
